@@ -1,4 +1,4 @@
-#Greek Wordle - C++ Terminal Game
+##Greek Wordle - C++ Terminal Game
 
 A terminal-based Wordle-style game implemented in C++ where players guess 5-letter **Greek words** within 6 tries. This project was created as a university group assignment focused on applying object-oriented principles and working with Unicode input/output.
 

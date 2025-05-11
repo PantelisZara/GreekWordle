@@ -16,4 +16,36 @@ A terminal-based Wordle-style game implemented in C++ where players guess 5-lett
 ---
 
 ## 📷 Screenshot (Terminal Preview)
+![image](https://github.com/user-attachments/assets/155342ed-5659-4060-9757-542d3fdd2779)
+![image](https://github.com/user-attachments/assets/48ea3c07-f725-4ec7-8972-77cb08b3b1d6)
 
+
+---
+
+## 🧠 Features
+
+- UTF-8 / UTF-16 Greek character handling
+- Colorful terminal output (Windows-only)
+- Input validation for 5-letter Greek words
+- Replay option after game ends
+- Built-in keyboard display with dynamic color updates
+- Dictionary-based random word selection (`5letterwords.txt`)
+
+---
+
+## 📂 File Structure
+
+Greek-Wordle/
+├── main.cpp # Main game logic
+├── 5letterwords.txt # Greek words list
+├── README.md # This file
+
+---
+
+## 💻 How to Run
+
+### ✅ Requirements
+
+- Windows OS (uses `<windows.h>`)
+- C++17 compiler (e.g. MSVC, MinGW)
+- UTF-8/Greek console font (like Consolas or Lucida Console)

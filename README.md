@@ -33,15 +33,6 @@ A terminal-based Wordle-style game implemented in C++ where players guess 5-lett
 
 ---
 
-## 📂 File Structure
-
-Greek-Wordle/
-├── main.cpp # Main game logic
-├── 5letterwords.txt # Greek words list
-├── README.md # This file
-
----
-
 ## 💻 How to Run
 
 ### ✅ Requirements
